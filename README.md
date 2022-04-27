@@ -2,6 +2,8 @@
 _**WELCOME HOME**_  
 This is nadikarim's github's space
 
+🌱 I’m currently learning mobile development such as Native android with kotlin and multi platform framework jus like flutter soon
+
 <!--
 **nadikarim/nadikarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
